@@ -273,6 +273,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.12)
+  jekyll-seo-tag (~> 2.7, >= 2.7.1)
   minima (~> 2.5)
   nokogiri (>= 1.12.5)
   tzinfo (~> 1.2)

@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -20,23 +20,30 @@
 
 title: BlogSpace
 email: avishrants@example.com
+tagline: by Cut n Clip
 description: >- # this means to ignore newlines until "baseurl:"
   A space for testing my blogs using Ruby.
 domain: cut-n-clip.github.io
 baseurl: "/BlogSpace" # the subpath of your site, e.g. /blog
 url: "https://cut-n-clip.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  AvishrantsSh
+github_username: AvishrantsSh
+logo: /public/favicon.ico
+version: 1.0.0
+
 
 # Build settings
 theme: minima
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 defaults:
-  - 
-    scope:
+  - scope:
       path: ""
     values:
       layout: post
 
 google_analytics_id: G-L92EQVEFFW
+
+github_repo: https://github.com/Cut-n-Clip/BlogSpace
