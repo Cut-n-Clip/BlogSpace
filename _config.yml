@@ -41,6 +41,7 @@ plugins:
 defaults:
   - scope:
       path: ""
+      type: posts
     values:
       layout: post
 
