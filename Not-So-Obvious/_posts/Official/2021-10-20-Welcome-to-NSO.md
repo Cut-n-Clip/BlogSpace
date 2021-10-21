@@ -1,9 +1,8 @@
 ---
-title:  The First Blog Post!!
+title: Welcome to the Journey!!
 slug: The First Blog Post
 permalink: /blog/The-First-Blog-Post
-date:   2021-10-20 09:06:12 +0530
-author: Avishrant Sharma
+image-dir: /assets/images/NSO/Official/the-first-blog
 ---
 
 ## Hi Readers!
@@ -14,4 +13,4 @@ to ask such obvious questions.
 
 Well, you are in luck! This is the start of our adventure together into the wild world of **Not So Obvious**, where we try to answer some seemingly obvious problems. So let's hop into this joyride and start exploring!
 
-![My helpful screenshot]({{'/public/images/NSO/launch.jpg' | absolute_url}})
+{%include picture.html img="launch.jpg" alt="Here we Go!!"%}

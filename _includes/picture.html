@@ -1,0 +1,11 @@
+{% assign img = include.img %}
+{% assign webpimg = img | basename | append: '.webp'%}
+<picture>
+    {% for tmp in site.static_files %}
+        {% assign trname = tmp.path | truename %}
+        {% if trname == webpimg %}
+            <source type="image/webp" srcset="{{page.image-dir|absolute_url}}/{{ img | basename }}.webp">
+        {% endif %}
+    {%endfor%}
+    <img src="{{page.image-dir|absolute_url}}/{{ img }}" alt="{{ include.alt }}" />
+</picture>

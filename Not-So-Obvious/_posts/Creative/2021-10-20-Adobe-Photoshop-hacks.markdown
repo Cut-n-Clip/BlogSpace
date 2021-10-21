@@ -1,21 +1,22 @@
 ---
 title:  "Not So Obvious- Adobe Photoshop"
 date:   2021-10-20 10:38:12 +0530
-categories: General
+categories: Photoshop
+image-dir: /assets/images/NSO/Creative/adobe-photoshop-hacks
 --- 
 ## Two best Methods to Extract an image in Adobe Photoshop
 
 ### **Method 1** :- Extract your subject from its background in Photoshop using the Quick Selection Tool and Refine Edge.  
 a) Select Quick Selection tool from the toolbar
 
-![Adobe Photoshop 2019 (Snapshot of Quick Selection Tool)]({{'/public/images/Quick selection.PNG' | absolute_url}})
- 
+{%include picture.html img="quick_selection.PNG" alt="Adobe Photoshop 2019 (Snapshot of Quick Selection Tool"%}
 
 b) Brush over top of your subject and after that hold the **Alt key** to remove the unwanted area that may have been selected, continue your selection until you get a decent selection and then copy the selected part and paste that a **new layer**.
 
 c) To improve your selection head up to **Select > Edit in Quick Mask Mode**
 
-![Adobe Photoshop 2019 (Snapshot of Quick mask mode)]({{'/public/images/Quick mask mode.PNG' | absolute_url}}){:loading="lazy"}
+   {%include picture.html img="quick_mask_mode.PNG" alt="Adobe Photoshop 2019 (Snapshot of Quick mask mode)"%}
+
    Turn on Smart Radius and increase the radius to soften out the edges For additional adjustment you can use features like Shift Edge and Decontaminate colors to get the perfect results
 
 d) Once your subject has been selected **bring a background** of your choice and **drag that background layer below the subject layer**.
@@ -34,8 +35,7 @@ and add gaussian blur to bring focus on your subject in the foreground.
 
 a) Select the Quick Selection tool and you will find the **Select Subject** option at the top of the toolbar.
 
-![Adobe Photoshop 2019 (Snapshot of Select Option)]({{'/public/images/Subject.PNG' | absolute_url}})
-
+{%include picture.html img="Subject.PNG" alt="Adobe Photoshop 2019 (Snapshot of Select Option)"%}
 
 b) Click on **Select Subject** and it will automatically selects your subject.
 

@@ -38,6 +38,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+plugins_dir: ./_plugins
+
 sass:
   style: compressed
 
