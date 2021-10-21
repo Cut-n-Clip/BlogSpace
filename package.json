@@ -1,0 +1,26 @@
+{
+  "name": "blogspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^4.0.3",
+    "cssnano": "^5.0.8",
+    "postcss": "^8.3.10",
+    "postcss-cli": "^9.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cut-n-Clip/BlogSpace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cut-n-Clip/BlogSpace/issues"
+  },
+  "homepage": "https://github.com/Cut-n-Clip/BlogSpace#readme",
+  "description": ""
+}

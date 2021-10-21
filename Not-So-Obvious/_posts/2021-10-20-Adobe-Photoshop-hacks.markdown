@@ -2,7 +2,6 @@
 title:  "Not So Obvious- Adobe Photoshop"
 date:   2021-10-20 10:38:12 +0530
 categories: General
-permalink: /:categories/:year/:month/:day/:title.html
 --- 
 ## Two best Methods to Extract an image in Adobe Photoshop
 
@@ -16,7 +15,7 @@ b) Brush over top of your subject and after that hold the **Alt key** to remove 
 
 c) To improve your selection head up to **Select > Edit in Quick Mask Mode**
 
-![Adobe Photoshop 2019 (Snapshot of Quick mask mode)]({{'/public/images/Quick mask mode.PNG' | absolute_url}})
+![Adobe Photoshop 2019 (Snapshot of Quick mask mode)]({{'/public/images/Quick mask mode.PNG' | absolute_url}}){:loading="lazy"}
    Turn on Smart Radius and increase the radius to soften out the edges For additional adjustment you can use features like Shift Edge and Decontaminate colors to get the perfect results
 
 d) Once your subject has been selected **bring a background** of your choice and **drag that background layer below the subject layer**.

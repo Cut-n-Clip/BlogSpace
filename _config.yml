@@ -38,6 +38,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+sass:
+  style: compressed
+
 defaults:
   - scope:
       path: ""
@@ -48,3 +51,20 @@ defaults:
 google_analytics_id: G-L92EQVEFFW
 
 github_repo: https://github.com/Cut-n-Clip/BlogSpace
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - package.json
+  - package-lock.json
+  - postcss.config.js
+  - Makefile
+  
