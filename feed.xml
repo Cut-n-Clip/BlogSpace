@@ -1,115 +1,125 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://cut-n-clip.github.io/BlogSpace/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cut-n-clip.github.io/BlogSpace/" rel="alternate" type="text/html" /><updated>2021-10-21T17:18:14+00:00</updated><id>https://cut-n-clip.github.io/BlogSpace/feed.xml</id><title type="html">BlogSpace</title><subtitle>A space for testing my blogs using Ruby.</subtitle><entry><title type="html">Not So Obvious- Adobe Photoshop</title><link href="https://cut-n-clip.github.io/BlogSpace/not-so-obvious/photoshop/2021/10/20/Adobe-Photoshop-hacks.html" rel="alternate" type="text/html" title="Not So Obvious- Adobe Photoshop" /><published>2021-10-20T05:08:12+00:00</published><updated>2021-10-20T05:08:12+00:00</updated><id>https://cut-n-clip.github.io/BlogSpace/not-so-obvious/photoshop/2021/10/20/Adobe-Photoshop-hacks</id><content type="html" xml:base="https://cut-n-clip.github.io/BlogSpace/not-so-obvious/photoshop/2021/10/20/Adobe-Photoshop-hacks.html">&lt;h2 id=&quot;two-best-methods-to-extract-an-image-in-adobe-photoshop&quot;&gt;Two best Methods to Extract an image in Adobe Photoshop&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://cut-n-clip.github.io/BlogSpace/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cut-n-clip.github.io/BlogSpace/" rel="alternate" type="text/html" /><updated>2021-10-22T12:36:17+00:00</updated><id>https://cut-n-clip.github.io/BlogSpace/feed.xml</id><title type="html">BlogSpace</title><subtitle>A space for testing my blogs using Ruby.</subtitle><entry><title type="html">Not So Obvious- Adobe Photoshop</title><link href="https://cut-n-clip.github.io/BlogSpace/not-so-obvious/photoshop/2021/10/20/Adobe-Photoshop-hacks.html" rel="alternate" type="text/html" title="Not So Obvious- Adobe Photoshop" /><published>2021-10-20T05:08:12+00:00</published><updated>2021-10-20T05:08:12+00:00</updated><id>https://cut-n-clip.github.io/BlogSpace/not-so-obvious/photoshop/2021/10/20/Adobe-Photoshop-hacks</id><content type="html" xml:base="https://cut-n-clip.github.io/BlogSpace/not-so-obvious/photoshop/2021/10/20/Adobe-Photoshop-hacks.html">&lt;h2 id=&quot;two-best-methods-to-extract-an-image-in-adobe-photoshop&quot;&gt;Two best Methods to Extract an image in Adobe Photoshop&lt;/h2&gt;
 
 &lt;h3 id=&quot;method-1---extract-your-subject-from-its-background-in-photoshop-using-the-quick-selection-tool-and-refine-edge&quot;&gt;&lt;strong&gt;Method 1&lt;/strong&gt; :- Extract your subject from its background in Photoshop using the Quick Selection Tool and Refine Edge.&lt;/h3&gt;
 &lt;p&gt;a) Select Quick Selection tool from the toolbar&lt;/p&gt;
 
-&lt;picture&gt;
-    
+&lt;div class=&quot;container h-80 my-8&quot;&gt;
+    &lt;picture&gt;
         
+            
+            
         
-    
+            
+            
         
+            
+            
         
-    
+            
+            
         
+            
+            
         
-    
+            
+            
         
+            
+            
+                &lt;source type=&quot;image/webp&quot; srcset=&quot;https://cut-n-clip.github.io/BlogSpace/assets/images/NSO/Creative/adobe-photoshop-hacks/quick_selection.webp&quot; /&gt;
+            
         
-    
+            
+            
         
+            
+            
         
-    
+            
+            
         
+            
+            
         
-    
+            
+            
         
+            
+            
         
-            &lt;source type=&quot;image/webp&quot; srcset=&quot;https://cut-n-clip.github.io/BlogSpace/assets/images/NSO/Creative/adobe-photoshop-hacks/quick_selection.webp&quot; /&gt;
+            
+            
         
-    
+            
+            
         
+            
+            
         
-    
-        
-        
-    
-        
-        
-    
-        
-        
-    
-        
-        
-    
-        
-        
-    
-        
-        
-    
-        
-        
-    
-    &lt;img src=&quot;https://cut-n-clip.github.io/BlogSpace/assets/images/NSO/Creative/adobe-photoshop-hacks/quick_selection.PNG&quot; alt=&quot;Adobe Photoshop 2019 (Snapshot of Quick Selection Tool&quot; /&gt;
-&lt;/picture&gt;
+        &lt;img src=&quot;https://cut-n-clip.github.io/BlogSpace/assets/images/NSO/Creative/adobe-photoshop-hacks/quick_selection.PNG&quot; alt=&quot;Adobe Photoshop 2019 (Snapshot of Quick Selection Tool&quot; class=&quot;max-h-80 m-auto&quot; /&gt;
+    &lt;/picture&gt;
+&lt;/div&gt;
 
 &lt;p&gt;b) Brush over top of your subject and after that hold the &lt;strong&gt;Alt key&lt;/strong&gt; to remove the unwanted area that may have been selected, continue your selection until you get a decent selection and then copy the selected part and paste that a &lt;strong&gt;new layer&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;c) To improve your selection head up to &lt;strong&gt;Select &amp;gt; Edit in Quick Mask Mode&lt;/strong&gt;&lt;/p&gt;
 
-&lt;picture&gt;
-    
+&lt;div class=&quot;container h-80 my-8&quot;&gt;
+    &lt;picture&gt;
         
+            
+            
         
-    
+            
+            
         
+            
+            
         
-    
+            
+            
         
+            
+            
+                &lt;source type=&quot;image/webp&quot; srcset=&quot;https://cut-n-clip.github.io/BlogSpace/assets/images/NSO/Creative/adobe-photoshop-hacks/quick_mask_mode.webp&quot; /&gt;
+            
         
-    
+            
+            
         
+            
+            
         
-    
+            
+            
         
+            
+            
         
-            &lt;source type=&quot;image/webp&quot; srcset=&quot;https://cut-n-clip.github.io/BlogSpace/assets/images/NSO/Creative/adobe-photoshop-hacks/quick_mask_mode.webp&quot; /&gt;
+            
+            
         
-    
+            
+            
         
+            
+            
         
-    
+            
+            
         
+            
+            
         
-    
+            
+            
         
+            
+            
         
-    
-        
-        
-    
-        
-        
-    
-        
-        
-    
-        
-        
-    
-        
-        
-    
-        
-        
-    
-        
-        
-    
-    &lt;img src=&quot;https://cut-n-clip.github.io/BlogSpace/assets/images/NSO/Creative/adobe-photoshop-hacks/quick_mask_mode.PNG&quot; alt=&quot;Adobe Photoshop 2019 (Snapshot of Quick mask mode)&quot; /&gt;
-&lt;/picture&gt;
+        &lt;img src=&quot;https://cut-n-clip.github.io/BlogSpace/assets/images/NSO/Creative/adobe-photoshop-hacks/quick_mask_mode.PNG&quot; alt=&quot;Adobe Photoshop 2019 (Snapshot of Quick mask mode)&quot; class=&quot;max-h-80 m-auto&quot; /&gt;
+    &lt;/picture&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Turn on Smart Radius and increase the radius to soften out the edges For additional adjustment you can use features like Shift Edge and Decontaminate colors to get the perfect results&lt;/p&gt;
 
@@ -128,57 +138,62 @@ and add gaussian blur to bring focus on your subject in the foreground.&lt;/p&gt
 
 &lt;p&gt;a) Select the Quick Selection tool and you will find the &lt;strong&gt;Select Subject&lt;/strong&gt; option at the top of the toolbar.&lt;/p&gt;
 
-&lt;picture&gt;
-    
+&lt;div class=&quot;container h-80 my-8&quot;&gt;
+    &lt;picture&gt;
         
+            
+            
         
-    
+            
+            
         
+            
+            
+                &lt;source type=&quot;image/webp&quot; srcset=&quot;https://cut-n-clip.github.io/BlogSpace/assets/images/NSO/Creative/adobe-photoshop-hacks/Subject.webp&quot; /&gt;
+            
         
-    
+            
+            
         
+            
+            
         
-            &lt;source type=&quot;image/webp&quot; srcset=&quot;https://cut-n-clip.github.io/BlogSpace/assets/images/NSO/Creative/adobe-photoshop-hacks/Subject.webp&quot; /&gt;
+            
+            
         
-    
+            
+            
         
+            
+            
         
-    
+            
+            
         
+            
+            
         
-    
+            
+            
         
+            
+            
         
-    
+            
+            
         
+            
+            
         
-    
+            
+            
         
+            
+            
         
-    
-        
-        
-    
-        
-        
-    
-        
-        
-    
-        
-        
-    
-        
-        
-    
-        
-        
-    
-        
-        
-    
-    &lt;img src=&quot;https://cut-n-clip.github.io/BlogSpace/assets/images/NSO/Creative/adobe-photoshop-hacks/Subject.PNG&quot; alt=&quot;Adobe Photoshop 2019 (Snapshot of Select Option)&quot; /&gt;
-&lt;/picture&gt;
+        &lt;img src=&quot;https://cut-n-clip.github.io/BlogSpace/assets/images/NSO/Creative/adobe-photoshop-hacks/Subject.PNG&quot; alt=&quot;Adobe Photoshop 2019 (Snapshot of Select Option)&quot; class=&quot;max-h-80 m-auto&quot; /&gt;
+    &lt;/picture&gt;
+&lt;/div&gt;
 
 &lt;p&gt;b) Click on &lt;strong&gt;Select Subject&lt;/strong&gt; and it will automatically selects your subject.&lt;/p&gt;
 
@@ -192,52 +207,57 @@ to ask such obvious questions.&lt;/p&gt;
 
 &lt;p&gt;Well, you are in luck! This is the start of our adventure together into the wild world of &lt;strong&gt;Not So Obvious&lt;/strong&gt;, where we try to answer some seemingly obvious problems. So let’s hop into this joyride and start exploring!&lt;/p&gt;
 
-&lt;picture&gt;
-    
+&lt;div class=&quot;container h-80 my-8&quot;&gt;
+    &lt;picture&gt;
         
+            
+            
         
-    
+            
+            
         
+            
+            
         
-    
+            
+            
         
+            
+            
         
-    
+            
+            
         
+            
+            
         
-    
+            
+            
         
+            
+            
         
-    
+            
+            
         
+            
+            
         
-    
+            
+            
         
+            
+            
         
-    
+            
+            
         
+            
+            
         
-    
+            
+            
         
-        
-    
-        
-        
-    
-        
-        
-    
-        
-        
-    
-        
-        
-    
-        
-        
-    
-        
-        
-    
-    &lt;img src=&quot;https://cut-n-clip.github.io/BlogSpace/assets/images/NSO/Official/the-first-blog/launch.jpg&quot; alt=&quot;Here we Go!!&quot; /&gt;
-&lt;/picture&gt;</content><author><name></name></author><category term="Not-So-Obvious" /><summary type="html">Hi Readers! Every day, we come across several questions that seem so trivial and obvious, yet we spend an entirety figuring them out. Ever wondered how our lives would change if we just had a place to ask such obvious questions. Well, you are in luck! This is the start of our adventure together into the wild world of Not So Obvious, where we try to answer some seemingly obvious problems. So let’s hop into this joyride and start exploring!</summary></entry></feed>
+        &lt;img src=&quot;https://cut-n-clip.github.io/BlogSpace/assets/images/NSO/Official/the-first-blog/launch.jpg&quot; alt=&quot;Here we Go!!&quot; class=&quot;max-h-80 m-auto&quot; /&gt;
+    &lt;/picture&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Not-So-Obvious" /><summary type="html">Hi Readers! Every day, we come across several questions that seem so trivial and obvious, yet we spend an entirety figuring them out. Ever wondered how our lives would change if we just had a place to ask such obvious questions. Well, you are in luck! This is the start of our adventure together into the wild world of Not So Obvious, where we try to answer some seemingly obvious problems. So let’s hop into this joyride and start exploring!</summary></entry></feed>
